@@ -1,0 +1,12 @@
+{
+  "roomid": 8,
+  "firstname": "Jams",
+  "lastname": "Dean",
+  "depositpaid": true,
+  "email": "test@email.com",
+  "phone": "07123456789",
+  "bookingdates": {
+    "checkin": "2020-02-05",
+    "checkout": "2020-02-16"
+  }
+}
